@@ -18,7 +18,7 @@ def complex_curfew_checker(time)
   #elsif statements --- ending methods and if statements are important!!! it's going to show an error outside of examples if
   #you don't end methods
 
-  if time = 11
+  if time == 11
     "You're in trouble! Better get home quick!"
   elsif time > 11
     "You're in trouble! Better get home quick!"
