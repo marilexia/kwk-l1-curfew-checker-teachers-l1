@@ -23,6 +23,7 @@ def complex_curfew_checker(time)
   else
     "Keep having fun because you have all the time in the world!"
   end
+  
 end
 
 def deluxe_curfew_checker(time)
