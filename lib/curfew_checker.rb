@@ -51,6 +51,6 @@ def platinum_curfew_checker(current_time, curfew_time)
   elsif curfew_time < current_time
     "You're in trouble! Better get back to Hogwarts quick!"
   elsif time_left = curfew_time - current_time
-    "You have #{time_left} hour(s) to keep having fun!"
+    "You have #{time_left} hour(s) left to keep having fun!"
   end
 end
