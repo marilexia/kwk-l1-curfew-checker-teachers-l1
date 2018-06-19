@@ -11,7 +11,6 @@ def curfew_checker(time)
     "You're in trouble! Better get home quick!"
   elsif
     "Keep having fun!"
-
   end
 
 
