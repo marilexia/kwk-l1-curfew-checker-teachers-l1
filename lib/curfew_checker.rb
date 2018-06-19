@@ -10,7 +10,7 @@ def curfew_checker(time)
   if time >= 11
     "You're in trouble! Better get home quick!"
   else
-   "Keep having fun!"
+   "Keep having fun!" #no puts code because instructions are only "say"... and not puts, they're not asking to put any string
   end
 
 
