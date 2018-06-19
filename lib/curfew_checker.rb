@@ -22,7 +22,9 @@ def complex_curfew_checker(time)
     "Time to apparate!" # look at error messages because what they're asking for might be different from instructions
                         # because in this lab, it was asking for telling user to get home quick but the exppected message was
                         # time to apparate
-  elsif time > 11
+
+  elsif time > 11 #difference of else and elsif -- if there's one more condition other than the main if statement
+                  # else -- if there are no more conditons needed
     "You're in trouble! Better get home quick!"
   else
     "Keep having fun!"
