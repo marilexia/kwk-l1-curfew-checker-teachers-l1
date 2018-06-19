@@ -25,7 +25,7 @@ def complex_curfew_checker(time)
   elsif time > 11
     "You're in trouble! Better get home quick!"
   else
-    "Keep having fun because you have all the time in the world!"
+    "Keep having fun!"
   end
 
 end
