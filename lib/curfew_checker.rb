@@ -39,7 +39,7 @@ def deluxe_curfew_checker(time)
     "You're in trouble! Better get home quick!"
   elsif
     time_left = 11 - time
-    "You have #{time_left} hour(s)to keep having fun!"
+    "You have #{time_left} hour(s) to keep having fun!"
   end
 end
 
