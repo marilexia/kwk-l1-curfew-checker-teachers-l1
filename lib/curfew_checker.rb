@@ -19,7 +19,7 @@ def complex_curfew_checker(time)
   #you don't end methods
 
   if time == 11 # == because it's asking if time is exactly 11, = is for assigning variables
-    "Time to apparate!" # look at error messages because what they're asking for might be different from instructions 
+    "Time to apparate!" # look at error messages because what they're asking for might be different from instructions
                         # because in this lab, it was asking for telling user to get home quick but the exppected message was
                         # time to apparate
   elsif time > 11
