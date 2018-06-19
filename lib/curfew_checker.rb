@@ -38,7 +38,7 @@ def deluxe_curfew_checker(time)
   elsif time > 11
     "You're in trouble! Better get home quick!"
   else
-    time_left = time-11
+    time_left = time - 11
     "You have #{time_left} to keep having fun!"
   end
 end
