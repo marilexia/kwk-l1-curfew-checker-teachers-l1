@@ -12,12 +12,11 @@ def curfew_checker(time)
   else
    "Keep having fun!" #no puts code because instructions are only "say"... and not puts, they're not asking to put any string
   end
-
-
 end
 
 def complex_curfew_checker(time)
-  # code goes here
+  #elsif statements
+  
 end
 
 def deluxe_curfew_checker(time)
