@@ -22,6 +22,7 @@ def complex_curfew_checker(time)
     "You're in trouble! Better get home quick!"
   else
     "Keep having fun because you have all the time in the world!"
+  end
 end
 
 def deluxe_curfew_checker(time)
